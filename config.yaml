@@ -1,0 +1,8 @@
+title: Amuthan
+# note the trailing slash!
+url: "https://amuthan.xyz/"
+desc: "Personal Blog - Computer, Art and Life"
+author:
+     name: "Amuthan Mannan"
+     email: "amuthanmannar4@gmail.com"
+default-template: text.html

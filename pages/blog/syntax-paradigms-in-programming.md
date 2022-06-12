@@ -1,0 +1,15 @@
+---
+template: text.html
+title: Syntax, Paradigms in Programming
+subtitle: Why paradigm wars matters?
+date: 2022-05-21
+slug: syntax-paradigms-in-programming
+---
+
+Paradigms tells more about our thinking processes and how we perceive logics from domain. Most programming languages are designed in a way that, you can apply any paradigm even if the language's constructs syntaxes are not made up of those components. For instance , Using a pure OOP language like Java, you can achieve a functional paradigm structures. I am not talking about Java 8 or functional library that has been added to it later,But even before that, it can be achieved in an elegant ways. If you took Java 8, that functional programming libraries are merely syntactic sugar. Yet syntactic convenience is important because syntax is the way you express ideas in a flow of the language.
+
+Functional paradigm heavily shows its influence via Immutability in the operations. Human minds can't simulate or visualise the complex states, in those cases immutability reduces the cognitive process to do. Also when I worked on the notebook environments, I always felt that , immutable variables and producing new data every time helped greatly in terms of debugging and reproducing steps. It is not meant that other paradigms or procedures are bad at it, even in those the complex state changes could be simplified and made even better. For instance, take a builder pattern , it can be used for some of those scenarios. We know that everything is mutated in a memory, but what really matters is the one that are in the human readable layers.
+
+Pure functions are not just a characteristic of this paradigm alone. Single responsibility principal says "A Module (function in this case) should have a single responsibility to do.". And if we done immutability part along with this, then functional purity is achievable easily at any paradigm languages. If we observe correctly , this will be the ideal practice to follow. Any other implementations will have pitfalls easily. Mutability across things will create errors easily, as the structure of the data might be changed across operations but not the expectation of the flow. In one scenario I remember that , I passed a dictionary with 5 keys to one function, and instead of copy and modify it,  I just changed the original object , and completed that function. But in the module that called this operation faces errors after sometime where we used that same dictionary , because that was modified few lines ago indirectly in different function (that mentioned one).
+
+This is the cost of impurity and mutable code. So the code that are in the readable layers , should follow this to avoid consequences. If you listen carefully , almost all of the good paradigms points to these concepts, which are helps to more concise and clean code. And thats why it is worth to have these paradigm wars/discussions.  Often people dragged into paradigm wars, to prove that their practices and way of writing code is right. It is not about which is best on in the group , rather what ever in the group, they should only exists to practice.
