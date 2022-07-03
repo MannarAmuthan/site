@@ -1,3 +1,5 @@
+.PHONY: all build clean
+
 install-govite:
 	rm -rf go-vite
 	git clone https://github.com/icyphox/go-vite
@@ -5,6 +7,8 @@ install-govite:
 	mkdir build
 
 build:
+	rm -rf build
+	mkdir build || true
 	./go-vite/vite build
 
 serve:
