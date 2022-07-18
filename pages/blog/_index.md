@@ -1,5 +1,5 @@
 ---
 template: blog.html
 title: blog
-subtitle: Computers, security & computer security.
+subtitle: Computers, art & programming.
 ---
