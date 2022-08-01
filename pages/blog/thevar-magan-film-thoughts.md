@@ -1,0 +1,25 @@
+---
+template: text.html
+title: "[Film Journal] - Thevar Magan"
+subtitle: Films that I admire - 3
+date: 2022-08-01
+slug: thevar-magan-film-thoughts
+---
+
+Though it is important, I don’t really want to talk about its cultural influences, caste aspects and other social health dilemmatic arguments here. A lot of film reviewers/critics (Screenplay analysers in pop culture) on the internet already explored its embeddings of Hero’s Journey, screenplay structure and other stuff, so I won’t talk about these things also. But the overall experience the film gave me when I watched it multiple times. Because film like Thevar Magan is not only meant to give perfect cinematic storytelling but also for the cinematic experience. There are multiple attempts made on this art piece, but it ends up very badly and is just another commercial flick.
+
+![thevar-magan.jpeg](/static/res/thevar-magan-film-thoughts/thevar-magan.jpeg)
+
+One of the elements that seem very powerful is the film’s narrative and perspective. Our experience of the story carried with Sakthivelu's (Kamal) character. As an outsider, his question about the nature of that place and the behaviour of the community coexists with the audience as well. This is not the first film that plays with the perspective. But what makes Thevar Magan stand out from the crowd is its attempt to provide the experience from perspective. One example is where Shakthivel's character makes Esaki (Vadivel) open the temple door. The events that happen after that moment are closed or hidden to the Shakthivel as well as the audience. It happens in the background, and when the riot is happening, and we and Shakthi knew the truth, the true immense seriousness of the event is revealed. I don’t think this impact occurs if those events were shown to the audience.
+
+Though the film is released three decades back, the film’s attitude towards handling romanticism in relationships impressed me. Take a *“Inji iduppalaga”* song, where the wife of a man sings about her husband and her future with him, from the request of his ex-girlfriend, where the ex-girlfriend grieves about his memories and love in the past, by seeing his pictures on the wall and hearing that song. The moment is well captured, and the song (One of my favourites), music, everything goes well (Thanks to Isaignani). And take the scene where intimacy between Shakthi and his wife developed. That sequence works great for me because I didn’t remember any other films that have this kind of realism in romantic scenes, that show **intimate moments are not just a result of affection and attraction**, it is something more than that. Here it is after the **shared trauma** of the murder attempt experienced by both characters.
+
+Masculinity is another important theme here. The events that happened before *“Santhupottu oru Santhanapottu eduthu vachiko”* songs depict the seriousness of the masculine test that was put before Shakthi. And if you listen to the song lyrics, the strong statements reflect the identity of the male figure and how a man should be. (I don’t want to make a command here, whether it is right or wrong). The film’s main Antagonist, Maya-Thevar (Nassar) is driven by this identity crisis to defeat Periya Thevar’s (Shivaji) greatness, who is Ally/Mentor of Shakthivel. His vendetta from some event in the past where his masculine/greatness was questioned could be a reason for this entire chain of events to revenge. The conversation between them before the final fight shows this very well.
+
+> Shakthivel: Maya, En intha veri?
+
+> Maya Thevar: Enda en pondattiya oru raathiri un veetula thoonga vitta naa ambalaya da..
+
+This seems like just another conversation between two main characters, to show anger. But it establishes Maya Thevar’s senseless mindset towards the masculine identity and valour. The Climax fight between these two characters is staged near a big giant masculine god.
+
+I don’t want to map all the stages of the hero's journey theory to Thevar Magan’s story events. But I want to talk about the final stage. That is “Return to the world with a gift or reward”. What is that reward here?. Did Shakthi get anything? We can’t expect the story’s nature to be stuck on these film theoretical templates. But those theories are not invented from anywhere, those events are for reason and purpose. So if a film breaks that boundary, it should justify its nature by introducing its own customised stage. Here the ending has great purpose and needs to hold heavy moral themes. So it seems like it does not focus on Hero’s arc. But for me, I think it does. If we notice the conversation between Esaki and Shakthi, where Esaki claims that he will accept that crime, Shakthi tells, “Enough..”. That powerful line indicates his guilty towards the entire time. And the guilt about his contribution towards the people of that community. Here the elixir or reward of Shakthi is the **“Redemption from that guilt”.**
