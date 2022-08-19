@@ -6,4 +6,8 @@
     from = "/*"
     to = "/404"
     status = 404
+
+[[redirects]]
+    from = "/"
+    to = "/blog"
     
