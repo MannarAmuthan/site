@@ -1,7 +1,7 @@
 ---
 template: text.html
 title: "Vetrimaran - Fate, Determinism and Absented Free-will"
-subtitle: "A Tiny case study"
+subtitle: "A Tiny case study on Vetrimaran's films"
 date: 2022-10-13
 slug: vetrimaran-fate-determinism-absented-free-will
 ---
