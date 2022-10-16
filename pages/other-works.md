@@ -47,16 +47,16 @@ subtitle: My other blog posts and writings
 
 # Blogs written for college community (Art/Criticism)
 
-- [Ideologies of Toxic Masculinity in cinema](https://sjcgct.in/blog/ideologies-of-toxic-masculinity-in-cinema)
-- [15 Movies you should watch if you are an aspiring screenwriter (or a movie buff)](https://sjcgct.in/blog/15-movies-you-should-watch-if-you-are-an-aspiring-screenwriter)
-- [Realism in Movies](https://sjcgct.in/blog/realism-in-movies)
-- [Ten Films with the Greatest Endings](https://sjcgct.in/blog/ten-films-with-the-greatest-endings)
-- [10 Great Scenes in Movies](https://sjcgct.in/blog/10-great-scenes-in-movies)
-- [Ten Movies that are so Poetic](https://sjcgct.in/blog/ten-movies-that-are-so-poetic)
-- [Ten Movies you should watch if you love Thrillers](https://sjcgct.in/blog/ten-movies-you-should-watch-if-you-love-thrillers)
-- [Movies and ideologies - Subjectivity in story](https://sjcgct.in/blog/movies-and-ideologies-1)
-- [Movies and ideologies - Morality and chaos](https://sjcgct.in/blog/movies-and-ideologies-2)
-- [Movies and Ideologies - Lets talk about serial killers](https://sjcgct.in/blog/part-3-lets-talk-about-serial-killers)
+- [Ideologies of Toxic Masculinity in cinema](https://sjcgct.org/blog/ideologies-of-toxic-masculinity-in-cinema)
+- [15 Movies you should watch if you are an aspiring screenwriter (or a movie buff)](https://sjcgct.org/blog/15-movies-you-should-watch-if-you-are-an-aspiring-screenwriter)
+- [Realism in Movies](https://sjcgct.org/blog/realism-in-movies)
+- [Ten Films with the Greatest Endings](https://sjcgct.org/blog/ten-films-with-the-greatest-endings)
+- [10 Great Scenes in Movies](https://sjcgct.org/blog/10-great-scenes-in-movies)
+- [Ten Movies that are so Poetic](https://sjcgct.org/blog/ten-movies-that-are-so-poetic)
+- [Ten Movies you should watch if you love Thrillers](https://sjcgct.org/blog/ten-movies-you-should-watch-if-you-love-thrillers)
+- [Movies and ideologies - Subjectivity in story](https://sjcgct.org/blog/movies-and-ideologies-1)
+- [Movies and ideologies - Morality and chaos](https://sjcgct.org/blog/movies-and-ideologies-2)
+- [Movies and Ideologies - Lets talk about serial killers](https://sjcgct.org/blog/part-3-lets-talk-about-serial-killers)
 
 # Linkedin articles
 
