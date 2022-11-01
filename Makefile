@@ -2,7 +2,7 @@
 
 install-govite:
 	rm -rf go-vite
-	git clone https://github.com/icyphox/go-vite
+	git clone https://github.com/MannarAmuthan/go-vite
 	cd go-vite && make && cd ..
 	mkdir build
 
@@ -16,7 +16,7 @@ serve:
 
 cd:
 	rm -rf go-vite
-	git clone https://github.com/icyphox/go-vite
+	git clone https://github.com/MannarAmuthan/go-vite
 	cd go-vite && make && cd ..
 	mkdir build || true
 	./go-vite/vite build

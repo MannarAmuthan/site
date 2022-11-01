@@ -9,6 +9,6 @@ kill_vite() {
 trap "kill_vite" INT
 
 ./go-vite/vite serve &
-find pages/ static/ templates/ | entr vite build
+find pages/ static/ templates/ | entr ./go-vite/vite build
 
 trap SIGINT
