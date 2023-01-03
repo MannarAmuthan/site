@@ -2,7 +2,7 @@
 template: text.html
 title: "[Film Journal] - Oldboy"
 subtitle: Films that I admire - 4
-date: 2023-01-01
+date: 2023-01-04
 slug: old-boy-film-thoughts
 ---
 
@@ -19,7 +19,7 @@ Enough of aesthetics, Let’s talk about interesting themes of the film. There i
 > “Mr Han, do you really think Mido has fallen in love with Oh Dae-su?”
 > 
 
-I think these crucial lines, summarise the whole tragedy of the movie. Films with tragic characters always have this conflict of ideas within themselves, later writer will reveal them and the arc of the characters come to an end. In Oldboy, **the major conflict or the central question is, whether the love created between Yoo-Ji-Tae and his sister is a natural one or not, or whether is he the only one to face this guilt against nature.** Because he wants to put Oh-Dae-Su in the same conflict as himself. Here the opposite of nature is described as the “devil” in the film, you can notice this in later dialogues of the film.
+I think these crucial lines, summarise the whole tragedy of the movie. In convention, films with tragic characters always have this conflict of ideas within themselves, later writer will reveal them which should leads to completion of the arc in characters journey. In Oldboy, **the major conflict or the central question is, whether the love created between Yoo-Ji-Tae and his sister is a natural one or not, or whether is he the only one to face this guilt against nature.** Because he wants to put Oh-Dae-Su in the same conflict as himself. Here the opposite of nature is described as the “devil” in the film, you can notice this in later dialogues of the film.
 
 > “Even though I'm no more than a monster - don't I, too, have the right to live?”.
 > 
