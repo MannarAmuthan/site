@@ -6,6 +6,12 @@ date: 2023-05-07
 slug: nanpakal-nerathu-mayakkam-thoughts
 ---
 
+> “They were clearing his room out; taking away everything he loved; the chest in which he kept his fret saw and other tools was already dragged off; they were now loosening the writing desk at which he had done all his homework when he was at the commercial academy, at the grammar school before that. His sister no longer took thought to bring him what might especially please him”
+> 
+
+> **-Franz Kafka(The Metamorphosis -1915 )**
+> 
+
 There are moments of cinema, which I was truly grateful for viewing, Lijo’s Nanpakal Nerathu Mayakkam contains lots of them. Lijo’s films always cherish human nature and the tendency behind it, instead of going behind complex science fiction and philosophical stories even though it contains fundamental concepts like human existence and evolution. It amazes me how he literally hides those things in a simple plain story and almost it looks like it is not even there. The quality of the work here is no lesser than any of the new-wave film directors in the West. He has absolute control over his craft on what we should see on the screen, and what wavelets should enter into audience eardrums. The film’s unconventional presentation techniques such as using old Tamil songs, and soundtracks instead of background score is well known and its theatrical aesthetics in staging is simply brilliant. These are very obvious that, it doesn’t need to be mentioned here again.
 
 ![From Nanpakal Nerathu Mayakkam](/static/res/nanpakal-nerathu-mayakkam-thoughts/nanpakal.png)
