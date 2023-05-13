@@ -6,7 +6,7 @@ date: 2023-05-07
 slug: nanpakal-nerathu-mayakkam-thoughts
 ---
 
-> “They were clearing his room out; taking away everything he loved; the chest in which he kept his fret saw and other tools was already dragged off; they were now loosening the writing desk at which he had done all his homework when he was at the commercial academy, at the grammar school before that. His sister no longer took thought to bring him what might especially please him”
+> “His sister no longer took thought to bring him what might especially please him. They were clearing his room out; taking away everything he loved; the chest in which he kept his fret saw and other tools was already dragged off; they were now loosening the writing desk at which he had done all his homework when he was at the commercial academy, at the grammar school before that.”
 > 
 
 > **-Franz Kafka(The Metamorphosis -1915 )**
