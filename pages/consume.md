@@ -19,6 +19,7 @@ I'm currently endeavoring to keep a record of my film and book-related activitie
 |
 |
 | **Watchlist(Favourites alone, 2023 Jan to Present)** | | |
+| [Call Me by Your Name](https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film)) | Luca Guadagnino | 2023 Sep |
 | [Decision to Leave](https://en.wikipedia.org/wiki/Decision_to_Leave) | Park Chan-wook | 2023 Sep |
 | [Barbie](https://en.wikipedia.org/wiki/Barbie_(film) | Greta Gerwig | 2023 Jul |
 | [Oppenheimer](https://en.wikipedia.org/wiki/Oppenheimer_(film) | Christopher Nolan | 2023 Jul |
