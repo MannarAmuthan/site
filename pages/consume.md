@@ -19,6 +19,7 @@ I'm currently endeavoring to keep a record of my film and book-related activitie
 |
 |
 | **Watchlist(Favourites alone, 2023 Jan to Present)** | | |
+| [Succession](https://en.wikipedia.org/wiki/Succession_(TV_series) | Jesse Armstrong | 2024 Jan |
 | [Killers of the Flower Moon](https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon_(film) | Martin Scorsese | 2023 Oct |
 | [Call Me by Your Name](https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film) | Luca Guadagnino | 2023 Sep |
 | [Decision to Leave](https://en.wikipedia.org/wiki/Decision_to_Leave) | Park Chan-wook | 2023 Sep |

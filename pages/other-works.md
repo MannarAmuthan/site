@@ -4,6 +4,13 @@ title: Other Works
 subtitle: My other blog posts and writings
 ---
 
+# Projects
+
+- [LLVM Custom Backend for 8085](https://github.com/MannarAmuthan/8085-llvm)
+- [Video Streaming System](https://github.com/MannarAmuthan/video-streaming-system)
+- [Jit Prototype](https://github.com/MannarAmuthan/jit-prototype)
+- [Kural Gen](https://github.com/MannarAmuthan/kural-gen)
+
 # Old Personal blog (Art)
 
 - [Arjun Reddy- Crafting characters through an Emotion.](https://amuthanmannar.blogspot.com/2018/08/arjun-reddy-crafting-characters-through.html)
