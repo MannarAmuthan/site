@@ -19,6 +19,8 @@ I'm currently endeavoring to keep a record of my film and book-related activitie
 |
 |
 | **Watchlist(Favourites alone, 2023 Jan to Present)** | | |
+| [Bramayugam](https://en.wikipedia.org/wiki/Bramayugam) | Rahul Sadasivan | 2024 Feb |
+| [Merry Christmas](https://en.wikipedia.org/wiki/Merry_Christmas_%282024_film%29) | Sriram Raghavan | 2024 Jan |
 | [Succession](https://en.wikipedia.org/wiki/Succession_%28TV_series%29) | Jesse Armstrong | 2024 Jan |
 | [Killers of the Flower Moon](https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon_%28film%29) | Martin Scorsese | 2023 Oct |
 | [Call Me by Your Name](https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_%28film%29) | Luca Guadagnino | 2023 Sep |
