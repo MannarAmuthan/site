@@ -19,6 +19,7 @@ I'm currently endeavoring to keep a record of my film and book-related activitie
 |
 |
 | **Watchlist(Favourites alone, 2023 Jan to Present)** | | |
+| [Premalu](https://en.wikipedia.org/wiki/Premalu) | Girish A. D. | 2024 Apr |
 | [Bramayugam](https://en.wikipedia.org/wiki/Bramayugam) | Rahul Sadasivan | 2024 Feb |
 | [Merry Christmas](https://en.wikipedia.org/wiki/Merry_Christmas_%282024_film%29) | Sriram Raghavan | 2024 Jan |
 | [Succession](https://en.wikipedia.org/wiki/Succession_%28TV_series%29) | Jesse Armstrong | 2024 Jan |
