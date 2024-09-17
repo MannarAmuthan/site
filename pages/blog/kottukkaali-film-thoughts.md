@@ -1,7 +1,7 @@
 ---
 template: text.html
 title: "[Film Journal] Kottukkaali - The Adamant Girl"
-subtitle: Land, landscapes, nature and nature calls 
+subtitle: Land, landscapes, nature, and nature's call
 date: 2024-09-17
 slug: kottukkaali-film-thoughts
 ---
