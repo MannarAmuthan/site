@@ -1,6 +1,6 @@
 ---
 template: text.html
-title: "Duplicated keys, Truth of nature and trust issues"
+title: "[Rant] Duplicated keys, Truth of nature and trust issues"
 subtitle: Purely rant
 date: 2025-03-16
 slug: duplicated-keys-truth-of-nature-trust-issues
